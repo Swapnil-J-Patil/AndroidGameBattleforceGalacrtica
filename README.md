@@ -1,5 +1,6 @@
 # BattleforceGalacrtica
-Battleforce Galactica is a space-themed arcade game where you control a spaceship, dodge obstacles, collect coins, and aim for a high score.
+Battleforce Galactica is a space-themed arcade game where you control a spaceship, dodge obstacles, collect coins, and aim for a high score.<br>
+(Kotlin, XML)
 <table>
   <tr>
     <td><img src="images/Homescreen.jpg" alt="Image 1"></td>
