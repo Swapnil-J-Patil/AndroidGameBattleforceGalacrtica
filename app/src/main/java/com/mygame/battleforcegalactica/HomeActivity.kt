@@ -1,4 +1,4 @@
-package com.example.game
+package com.mygame.battleforcegalactica
 import android.content.Intent
 import android.media.MediaPlayer
 import androidx.appcompat.app.AppCompatActivity

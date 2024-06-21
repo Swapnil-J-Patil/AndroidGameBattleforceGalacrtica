@@ -1,4 +1,4 @@
-package com.example.game
+package com.mygame.battleforcegalactica
 import android.app.Activity
 import android.os.Bundle
 

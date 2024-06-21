@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.game'
+    namespace 'com.mygame.battleforcegalactica'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.game"
+        applicationId "com.mygame.battleforcegalactica"
         minSdk 24
         targetSdk 33
         versionCode 1

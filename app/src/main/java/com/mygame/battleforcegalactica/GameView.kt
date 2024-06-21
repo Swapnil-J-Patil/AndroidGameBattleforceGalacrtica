@@ -1,4 +1,4 @@
-package com.example.game
+package com.mygame.battleforcegalactica
 import android.content.Context
 import android.content.SharedPreferences
 import android.graphics.Canvas
@@ -12,9 +12,7 @@ import android.view.MotionEvent
 import android.view.SurfaceHolder
 import android.view.SurfaceView
 import androidx.core.content.ContextCompat
-import java.util.Collections
 import java.util.concurrent.CopyOnWriteArrayList
-import java.util.concurrent.locks.ReentrantLock
 
 class GameView(context: Context) : SurfaceView(context), SurfaceHolder.Callback {
     var gameThread: GameThread? = null
